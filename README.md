@@ -23,8 +23,6 @@ My focus areas include:
 
 ### Remote Sensing
 - Landsat 7/8/9
-- Sentinel-2
-- MODIS
 - NDVI Analysis
 - NDBI Analysis
 - Land Surface Temperature (LST)
