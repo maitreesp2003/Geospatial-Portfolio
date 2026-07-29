@@ -96,7 +96,7 @@ To analyze long-term Urban Heat Island (UHI) patterns using Landsat satellite im
 
 ## NASA Earth Observation
 
-- Earth Observation Applications for Water Resources *(In Progress)*
+- Earth Observation Applications for Water Resources *(Upcoming)*
 
 ## ESCAP
 
