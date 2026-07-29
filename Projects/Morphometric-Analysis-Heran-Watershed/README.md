@@ -4,7 +4,7 @@
 
 This flowchart summarizes the workflow followed for the GIS-based morphometric analysis of the Heran Watershed.
 
-![Methodology](images/Figure_01_Methodology_Flowchart.png)
+![Methodology](Images/Figure_01_Methodology_Flowchart.png)
 
 ---
 
@@ -12,7 +12,7 @@ This flowchart summarizes the workflow followed for the GIS-based morphometric a
 
 This map shows the geographical location and extent of the Heran Watershed in Gujarat.
 
-![Study Area](images/Figure_02_Study_Area_Map.png)
+![Study Area](Images/Figure_02_Study_Area_Map.png)
 
 ---
 
@@ -20,7 +20,7 @@ This map shows the geographical location and extent of the Heran Watershed in Gu
 
 This map illustrates the geomorphological characteristics of the watershed.
 
-![Geomorphology](images/Figure_03_Geomorphology_Map.png)
+![Geomorphology](Images/Figure_03_Geomorphology_Map.png)
 
 ---
 
@@ -28,7 +28,7 @@ This map illustrates the geomorphological characteristics of the watershed.
 
 This map presents the geological formations within the study area.
 
-![Geology](images/Figure_04_Geology_Map.png)
+![Geology](Images/Figure_04_Geology_Map.png)
 
 ---
 
@@ -36,7 +36,7 @@ This map presents the geological formations within the study area.
 
 This map represents the different land use and land cover classes within the watershed.
 
-![LULC](images/Figure_05_LULC_Map.png)
+![LULC](Images/Figure_05_LULC_Map.png)
 
 ---
 
@@ -44,7 +44,7 @@ This map represents the different land use and land cover classes within the wat
 
 This map shows the extracted drainage network used for morphometric analysis.
 
-![Drainage](images/Figure_06_Drainage_Network_Map.png)
+![Drainage Network](Images/Figure_06_Drainage_Network_Map.png)
 
 ---
 
@@ -52,7 +52,7 @@ This map shows the extracted drainage network used for morphometric analysis.
 
 The graph illustrates the relationship between stream order and stream length, providing insights into the drainage characteristics of the watershed.
 
-![Graph](images/Figure_07_Stream_Length_vs_Stream_Order.png)
+![Stream Length vs Stream Order](Images/Figure_07_Stream_Length_vs_Stream_Order.png)
 
 ---
 
@@ -60,4 +60,28 @@ The graph illustrates the relationship between stream order and stream length, p
 
 This map displays the spatial variation in drainage density across the watershed.
 
-![Drainage Density](images/Figure_08_Drainage_Density_Map.png)
+![Drainage Density](Images/Figure_08_Drainage_Density_Map.png)
+
+---
+
+## 9. 📋 Linear Morphometric Parameters
+
+This table summarizes the linear morphometric parameters calculated for the Heran Watershed.
+
+![Linear Parameters](Images/Figure_09_Linear_Morphometric_Parameters.png)
+
+---
+
+## 10. 📋 Areal Morphometric Parameters
+
+This table presents the areal morphometric characteristics of the Heran Watershed.
+
+![Areal Parameters](Images/Figure_10_Areal_Morphometric_Parameters.png)
+
+---
+
+## 11. 📋 Relief Morphometric Parameters
+
+This table summarizes the relief morphometric parameters used to evaluate the topographic characteristics of the Heran Watershed.
+
+![Relief Parameters](Images/Figure_11_Relief_Morphometric_Parameters.png)
