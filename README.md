@@ -56,9 +56,11 @@ My areas of interest include:
 
 ---
 
-# 📂 Featured Projects
+# 🎓 Academic Research Projects
 
-## 🌡️ Urban Heat Island Assessment of Amreli District, Gujarat (2000–2025)
+**M.Sc. Environmental Science Dissertation (2026)**
+
+## 🌡️ Urban Heat Island Assessment of Amreli District, Gujarat
 
 ### Objective
 
@@ -72,13 +74,43 @@ To analyze long-term Urban Heat Island (UHI) patterns using Landsat satellite im
 
 ### Analysis Performed
 
-- Land Use/Land Cover Mapping
+- Land Use/Land Cover (LULC) Mapping
 - NDVI Analysis
 - NDBI Analysis
 - Land Surface Temperature (LST)
 - Urban Heat Island (UHI) Mapping
 
-📌 *Project documentation, maps, and datasets will be uploaded soon.*
+📌 Project documentation, maps, datasets, and Google Earth Engine scripts will be uploaded soon.
+
+---
+
+**B.Sc. Environmental Science Dissertation (2024)**
+
+## 🌊 Morphometric Analysis of the Heran Watershed, Gujarat
+
+### Objective
+
+To perform a GIS-based morphometric analysis of the Heran Watershed using Remote Sensing and GIS techniques by evaluating linear, areal, and relief parameters to understand watershed characteristics and support sustainable watershed management.
+
+### Tools Used
+
+- ArcGIS 10.8
+- SRTM Digital Elevation Model (DEM)
+- GIS & Remote Sensing Techniques
+
+### Analysis Performed
+
+- Geomorphology Interpretation
+- Watershed Delineation
+- Drainage Network Extraction
+- Stream Order Analysis
+- Linear Morphometric Analysis
+- Areal Morphometric Analysis
+- Relief Morphometric Analysis
+- Drainage Density & Stream Frequency Analysis
+- Basin Shape Parameter Assessment
+
+📌 Project report, maps, and analysis outputs have been uploaded to this repository.
 
 ---
 
