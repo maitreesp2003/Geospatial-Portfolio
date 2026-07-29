@@ -82,32 +82,30 @@ To analyze long-term Urban Heat Island (UHI) patterns using Landsat satellite im
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-## ESRI Academy
-
+### ESRI Academy
 - GIS Basics
 - Getting Started with Imagery and Remote Sensing
 
-## UNESCO
-
+### UNESCO
 - Flood Hazard and Exposure Mapping
 - Introduction to Climate Risk-Informed Decision Analysis (CRIDA)
+- Landslide Risk Assessment, Monitoring and Forecasting
 
-## NASA Earth Observation
+### ESCAP Academy
+- ICT for Disaster Risk Management
+- Introduction to Google Earth Engine and ChatGPT for Flood Mapping
+- Realizing Data-Driven Governance
+- Qualifying Test for Training of Trainers on Integration of SDGs into National Planning
 
+### NASA ARSET
 - Earth Observation Applications for Water Resources *(Upcoming)*
 
-## ESCAP
-
-- Earth Observation & Sustainable Development Courses
-
-## SWAYAM / NPTEL
-
+### SWAYAM / NPTEL
 - GIS & Remote Sensing Courses *(Ongoing)*
 
-## IIRS Outreach Programme
-
+### IIRS Outreach Programme
 - Remote Sensing & GIS Training *(Upcoming)*
 
 ---
