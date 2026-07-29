@@ -4,7 +4,7 @@
 
 This flowchart summarizes the workflow followed for the GIS-based morphometric analysis of the Heran Watershed.
 
-![Methodology](Projects/Morphometric-Analysis-Heran-Watershed/Images/Figure_01_Methodology_Flowchart.png.png)
+![Methodology](https://github.com/maitreesp2003/Geospatial-Portfolio/blob/main/Projects/Morphometric-Analysis-Heran-Watershed/Images/Figure_01_Methodology_Flowchart.png.png)
 
 ---
 
