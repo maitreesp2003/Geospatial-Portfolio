@@ -160,10 +160,6 @@ Geospatial-Portfolio/
 │
 ├── certificates/
 ├── projects/
-├── maps/
-├── scripts/
-├── datasets/
-├── images/
 ├── resume/
 └── README.md
 ```
